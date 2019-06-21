@@ -1,0 +1,16 @@
+2019-06-11T06:42:04+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\build your console\wp-includes\wp-db.php on line 2007
+
+2019-06-11T07:25:59+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\build your console\wp-content\themes\Savoy\savoy\includes\options\ReduxCore\inc\lib.redux_instances.php on line 9
+
+2019-06-11T07:26:11+00:00 CRITICAL Out of memory (allocated 18874368) (tried to allocate 8192 bytes) in D:\xampp\htdocs\build your console\wp-content\plugins\js_composer\include\params\loop\loop.php on line 29
+
+2019-06-11T07:26:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\build your console\wp-includes\wp-db.php on line 2007
+
+2019-06-11T07:26:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\build your console\wp-includes\admin-bar.php on line 1169
+
+2019-06-11T07:26:19+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\build your console\wp-includes\template.php on line 664
+
+2019-06-11T07:26:19+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\build your console\wp-includes\wp-db.php on line 2007
+
+2019-06-11T07:26:19+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\build your console\wp-includes\wp-db.php on line 2007
+
